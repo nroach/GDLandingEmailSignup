@@ -1,7 +1,9 @@
+# responds at https://hostname/?i=docassemble.LandingEmailSignup%3Adata%2Fquestions%2FLanding_Email_Signup.yml
+---
 metadata:
   title: Subscribe to GoodDocs.IO - Landing Email Signup
   short title: Landing Email
-  ---
+---
 modules:
   - docassemble.base.legal
 comment: |
