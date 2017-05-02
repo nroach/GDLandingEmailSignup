@@ -1,7 +1,7 @@
 metadata:
   title: Subscribe to GoodDocs.IO - Landing Email Signup
   short title: Landing Email
----
+  ---
 modules:
   - docassemble.base.legal
 comment: |
