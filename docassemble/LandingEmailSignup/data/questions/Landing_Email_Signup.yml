@@ -6,10 +6,10 @@ metadata:
 ---
 modules:
   - docassemble.base.legal
-comment: |
-  A "modules" section imports functions from Python modules.  The
-  docassemble.base.legal module defines some object classes and functions
-  that are useful in legal applications.
+# comment: |
+#  A "modules" section imports functions from Python modules.  The
+#  docassemble.base.legal module defines some object classes and functions
+#  that are useful in legal applications.
 ---
 objects:
   - recipient: Individual
